@@ -1,0 +1,2 @@
+class OverloadedTaskId(Exception):
+    pass
