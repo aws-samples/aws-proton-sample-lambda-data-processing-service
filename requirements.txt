@@ -4,7 +4,7 @@ botocore==1.20.53
 iniconfig==1.1.1
 jmespath==0.10.0
 packaging==20.9
-pip==21.1
+pip==23.3
 pluggy==0.13.1
 py==1.10.0
 pyparsing==2.4.7
